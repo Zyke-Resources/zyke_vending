@@ -19,7 +19,7 @@ This resource was meant to be included inside of our upcoming zyke_consuambles, 
 
 ## Links
 
--   [Discord Community](https://discord.zykeresources.com/)
+-   [Discord Community](https://discord.zykeresources.com)
 -   [Store](https://store.zykeresources.com/)
 -   [Documentation](https://docs.zykeresources.com/free-resources/vending-machines)
 
