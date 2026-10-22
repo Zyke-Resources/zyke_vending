@@ -1,6 +1,6 @@
 ```lua
     ["sprunk"] = {
-        ["name"] = "spunk",
+        ["name"] = "sprunk",
         ["label"] = "Sprunk",
         ["weight"] = 350,
         ["type"] ="item",
@@ -59,25 +59,25 @@
         ["description"] = "A refreshing drink."
     },
 
-    ["big_cheese"] = {
-        ["name"] = "big_cheese",
+    ["phatchips_bigcheese"] = {
+        ["name"] = "phatchips_bigcheese",
         ["label"] = "Big Cheese",
         ["weight"] = 220,
         ["type"] ="item",
         ["unique"] = true,
-        ["image"] = "big_cheese.png",
+        ["image"] = "phatchips_bigcheese.png",
         ["useable"] = true,
         ["shouldCLose"] = true,
         ["description"] = "A delicious snack."
     },
 
-    ["habernero"] = {
-        ["name"] = "habernero",
+    ["phatchips_habernero"] = {
+        ["name"] = "phatchips_habernero",
         ["label"] = "Habernero",
         ["weight"] = 220,
         ["type"] ="item",
         ["unique"] = true,
-        ["image"] = "habernero.png",
+        ["image"] = "phatchips_habernero.png",
         ["useable"] = true,
         ["shouldCLose"] = true,
         ["description"] = "A delicious snack."
